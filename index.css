@@ -1,0 +1,73 @@
+
+
+/* section 2 */
+.image{
+    width: 270px;
+}
+
+
+/* section 3 */
+.job{
+    font-size: 2.2rem;
+    width: 250px;
+    font-weight: bold;
+}
+
+.jobs{
+    font-size: 0.9rem;
+    width: 300px;
+}
+.save{
+    width: 240px;
+    font-weight: bold;
+
+}
+.our{
+    width: 600px;
+}
+.section4{
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    background-color: aquamarine;
+    width: 230px;
+}
+.download{
+    border: 2px solid;
+    border-radius: 400px;
+}
+.lorem{
+    width: 240px;
+}
+.note{
+    border: 10px;
+    border-radius: 50px;
+}
+.grass{
+    font-weight: bold;
+    font-size: 30px;
+}
+.sweet{
+    display: flex;
+    gap: x;
+}
+.wide{
+    width: 250px;
+}
+.small{
+    width: 50px;
+}
+
+.image{
+    width: 100px;
+    border-radius: 50%;
+}
+.two{
+    width: 250px;
+
+}
+.sol{
+    font-size: 0.9rem;
+    width: 180px;
+    font-weight: 30px
+}
